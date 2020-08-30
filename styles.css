@@ -57,7 +57,7 @@ body{
   position:relative;
 }
 .portfolio-img-background{
-  background-image:url('https://github.com/Rio-jetexpress/Udemyproject/blob/master/harley-davidson-56R8TzG7Lzc-unsplash.jpg?raw=true')
+  background-image:url('https://github.com/Rio-jetexpress/Udemyproject/blob/master/harley-davidson-56R8TzG7Lzc-unsplash.jpg?raw=true');
   height: 350px;
   width:100%;
   background-size: cover;
